@@ -9,7 +9,7 @@ if(number > 1)
 {
     while(evenNumber <= number)
     {
-        Console.Write(evenNumber + " ");
+        Console.Write(evenNumber + ",");
         evenNumber = evenNumber + 2;
     }
 }
